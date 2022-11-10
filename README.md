@@ -59,7 +59,7 @@ Erlang          --->   25.0.1
 maven           --->   3.8.6  
 
 ## 项目前端地址
-
+项目前端地址：https://github.com/xcy0229/yiran_parent-master.git、
 
 ## 项目功能介绍
 
